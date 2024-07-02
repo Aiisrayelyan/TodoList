@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "ec1",
+      "text": "Drink coffee",
+      "completed": false
+    },
+    {
+      "id": "ec2",
+      "text": "Drink water",
+      "completed": true
+    },
+    {
+      "id": "af3",
+      "text": "Do workout",
+      "completed": false
+    }
+  ]
+}
